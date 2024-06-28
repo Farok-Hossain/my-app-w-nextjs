@@ -14,7 +14,7 @@ const AlbumPage = () => {
       />
       <Image src={myImage} width={800} height={200} alt="putin" />
       <h1>Using img component</h1>
-      <img
+      <Image
         src="https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQ9kXiqxWGfYyCJphYUSq8-H2typSIwHmxojTDAMIgqU-BhhKQkr_hELs5KEKQRdctSxHwGBbhg9w8n8PU"
         width="800px"
         height="200px"
